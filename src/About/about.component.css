@@ -1,0 +1,10 @@
+.about_img{
+    background-image: url('../assets/images/doctor.jpg');
+    height: 1500%;
+    color: white;
+}
+.para{
+    padding-left: 30px;
+    padding-top: 70px;
+    margin-left: 60px;
+}

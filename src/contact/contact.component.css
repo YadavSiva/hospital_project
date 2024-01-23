@@ -1,0 +1,18 @@
+
+.contactus_bg_img{
+    background-image: url('../assets/images/doctor.jpg');
+    height: 1500%;
+    color: white;
+}
+@media only screen and (max-width:700px){
+.b-xs-bottom {
+    border-bottom: 1px solid #e0eded;
+}
+.text-center {
+    text-align: center!important;
+
+}
+.cont {
+    max-width: 350px;
+}
+}
